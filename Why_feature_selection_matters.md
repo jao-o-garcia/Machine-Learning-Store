@@ -1,10 +1,3 @@
----
-title: "When Does Feature Selection Actually Matter?"
-source_file: "18_2_why_feature_selection_matters.ipynb"
-tags: ["machine learning","feature selection","education"]
-format: "rag-optimized-markdown"
----
-
 # When Does Feature Selection Actually Matter?
 
 ## Table of Contents
